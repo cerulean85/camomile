@@ -1,0 +1,28 @@
+project: aitom
+remote: /home/ec2-user/uploads/files
+local: D:\ZHKim\programs\aitom\public_html_ai
+files: [
+  application\controllers\lms\Library.php,
+  application\controllers\lms\Main.php,
+  application\controllers\lms\Notice.php,
+  application\controllers\lms\Student.php,
+  application\controllers\lms\Write.php,
+  application\models\lms\Lms_model.php,
+  views\_layout\lms\layout.php,
+  views\_layout\lms\js\board.js,
+  views\_layout\lms\js\class-management.js,
+  views\_layout\lms\css\common.css,
+  views\_layout\lms\css\content.css,
+  views\_layout\lms\css\popup.css,
+  views\_layout\lms\css\style.css,
+  views\service_menu\lms\library.php,
+  views\service_menu\lms\main.php,
+  views\service_menu\lms\notice.php,
+  views\service_menu\lms\notice_detail.php,
+  views\service_menu\lms\student.php,
+  views\service_menu\lms\voice_group.php,
+  views\service_menu\lms\write.php
+]
+
+
+
